@@ -2,7 +2,7 @@
 
 Run the program `assignment_1.py` from **within your virtual machine**.  _NB: Do not run the Python file in a local Python installation, nor in a notebook on Azure._
 
-###Tasks:
+### Tasks:
   1. List the all files that this program generates.
   2. Describe which types of files this program generates and attach the contents of each file together with its name to your solution.
   3. What is the output of this program?
