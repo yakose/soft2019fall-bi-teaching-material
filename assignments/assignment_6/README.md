@@ -1,2 +1,1 @@
-# Assignment 6
-: TBD.
+# Assignment 6: TBD.
