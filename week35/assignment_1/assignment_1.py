@@ -74,7 +74,7 @@ def generate_plot(data):
 def run():
     file_url = 'https://raw.githubusercontent.com/datsoftlyngby/' \
                'soft2019fall-bi-teaching-material/master/' \
-               'week35/assignments/assignment_1/price_list.txt'
+               'week35/assignment_1/price_list.txt'
     txt_file_name = os.path.basename(file_url)
     txt_path = os.path.join('./', txt_file_name)
     download_txt(file_url, txt_path)
