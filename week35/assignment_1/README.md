@@ -7,10 +7,12 @@ Run the program `assignment_1.py` from **within your virtual machine**.  _NB: Do
   2. Describe which types of files this program generates and attach the contents of each file together with its name to your solution.
   3. What is the output of this program?
   4. Describe in natural language -- line-by-line of code -- what the Python script is doing.
+  5. Write (code) a function in the assignment_1.py file, which plots a histogram of the price data, with -- say -- 7 bins in the hisotgram.
+  6. Write (text) a sentence into the assignment_1.py about the result of the histogram.
 
 
 ## Hand-in Procedure
-  * Create a Markdown (.md) file called `README.md` with your solutions to tasks 1. -- 4. above, in your group's Github repository.
+  * Create a Markdown (.md) file called `README.md` with your solutions to tasks 1. -- 6. above, in your group's Github repository.
     * **OBS** You create a markdown document. No MS Word file, no PDF, no other format. Use `.md` only.
   * Your group will work with that group GitHub repository during the entire course.
   * Hand-in at latest on Wednesday, Sept. 4th at 11:59. You will upload a link to the markdown document on PeerGrade -- one link per group.
