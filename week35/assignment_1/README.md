@@ -1,6 +1,6 @@
 # Assignment 1: Environment Setup & Intro to Python
 
-Run the program `assignment_1.py` from **within your virtual machine**.  _NB: Do not run the Python file in a local Python installation, nor in a notebook on Azure._
+Run the program `assignment_1.py` in your preferred python environment (command line, container, Anaconda stand-alone, ...).
 
 ### Tasks:
   1. List the all files that this program generates.
